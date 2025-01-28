@@ -1,4 +1,4 @@
-# 💻 Flulie owns this space!
+# 💻 Flulkie owns this space!
 
 🎓 Master's Student in Computer Vision @ Tokyo  
 🌐 Communication Engineering Background | 💻 Full-Stack Algorithm Enthusiast  
