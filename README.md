@@ -124,23 +124,25 @@ G --> I[C++]
 **Tech**: `Spring Boot` `MySQL Cluster` `ELK Stack` `Jenkins`
 
 ---
+```md
 ### 🎮 Terminal Interface
-```bash
-$ whoami
-Flulike - CV Researcher | Python Evangelist
 
-$ neofetch
-OS: Ubuntu 20.04 LTS x86_64 & Windows 11
-GPU: A6000 * 4 & RTX 4090
-Shell: zsh 5.8 
-Editor: VSCode 
-Theme: Dracula
-GPU: A6000 * 4
+**whoami**  
+**Flulike** - CV Researcher | Python Evangelist  
 
-$ coffee --status
-Kidding, I'm not coffee guy. I prefer pure water in my life
+**neofetch**  
+- **OS**: Ubuntu 20.04 LTS x86_64 & Windows 11  
+- **GPU**: A6000 × 4 & RTX 4090  
+- **Shell**: zsh 5.8  
+- **Editor**: VSCode  
+- **Theme**: Dracula  
 
-$ schedule --daily --tz=GMT+9
+**coffee --status**  
+Kidding, I'm not a coffee guy. I prefer pure water in my life.  
+
+**schedule --daily --tz=GMT+9**  
+
+```
 ╭─────────────────────── Daily Routine ───────────────────────╮
 │ 09:00 🧪 [Lab]           ███████████████████░░░░░ 75%        │
 │ 13:00 🏋️ Gym Session    ▮▮▮▮▮ (2hr Powerlifting)         │
@@ -148,32 +150,32 @@ $ schedule --daily --tz=GMT+9
 │ 19:00 🍜 Dinner Break   🍣🍚🥢 (Fried Chicken)             │
 │ 21:00 🚇 Return Home    Listening to ASMR                    │
 ╰──────────────────────────────────────────────────────────────╯
-
-$ hobbies --show-all
-⚽ Football Mode Activated:
-  - 🏆 Club: REAL MADRID (Following since Raul)
-  - 🇯🇵 High School: All Japan High School Soccer Tournament (Winter Tradition)
-  - 🎌 Local Support: Any high school football team in Tokyo or Chiba!!!
-
-🎵 Music is all I need:
-  🎹 Instruments: Have learned the piano Since I was 4
-  🎹 Band: Keyboard of UU band in Southwest xxx
-  🎻  Hobbit: Orchestra (Berliner Philharmoniker)
-  🎷  Hobbit: Brass Band (Japan high school)
-  
-
-🎮 Game Library:
-  🔫 FPS: CS2 (2k hrs) | Valorant (Dimond Rank)
-  ⚔️ MOBA: Dota 2 (Carry Main, MMR 5800)
-  🗡️ JRPG: Persona Series | Final Fantasy | Xenoblade Chronicles
-
-💗 Anime
-  1️⃣ Sound! Euphonium
-  ❤️‍🔥 BangDream
-  💝 Shōjo Kageki Revyū Sutāraito
-
-
 ```
+
+**hobbies --show-all**  
+
+- ⚽ **Football Mode Activated**:  
+  - 🏆 **Club**: REAL MADRID (Following since Raul)  
+  - 🇯🇵 **High School**: All Japan High School Soccer Tournament (Winter Tradition)  
+  - 🎌 **Local Support**: Any high school football team in Tokyo or Chiba!!!  
+
+- 🎵 **Music is all I need**:  
+  - 🎹 **Instruments**: Have learned the piano since I was 4  
+  - 🎹 **Band**: Keyboard of UU band in Southwest xxx  
+  - 🎻 **Hobby**: Orchestra (Berliner Philharmoniker)  
+  - 🎷 **Hobby**: Brass Band (Japan high school)  
+
+- 🎮 **Game Library**:  
+  - 🔫 **FPS**: CS2 (2k hrs) | Valorant (Diamond Rank)  
+  - ⚔️ **MOBA**: Dota 2 (Carry Main, MMR 5800)  
+  - 🗡️ **JRPG**: Persona Series | Final Fantasy | Xenoblade Chronicles  
+
+- 💗 **Anime**:  
+  - 1️⃣ **Sound! Euphonium**  
+  - ❤️‍🔥 **BangDream**  
+  - 💝 **Shōjo Kageki Revyū Sutāraito**  
+```
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
