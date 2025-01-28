@@ -124,7 +124,6 @@ G --> I[C++]
 **Tech**: `Spring Boot` `MySQL Cluster` `ELK Stack` `Jenkins`
 
 ---
-```md
 ### 🎮 Terminal Interface
 
 **whoami**  
@@ -174,7 +173,6 @@ Kidding, I'm not a coffee guy. I prefer pure water in my life.
   - 1️⃣ **Sound! Euphonium**  
   - ❤️‍🔥 **BangDream**  
   - 💝 **Shōjo Kageki Revyū Sutāraito**  
-```
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
