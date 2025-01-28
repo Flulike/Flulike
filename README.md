@@ -174,7 +174,7 @@ Kidding, I'm not a coffee guy. I prefer pure water in my life.
 | **21:00** | 🚇 **Return Home** | Activity: Listening to ASMR            |
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
