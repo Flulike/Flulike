@@ -18,10 +18,9 @@
 
 ---
 
-以下是将内容转换为更清晰、展示友好的 Markdown 格式的建议：
 
 🌐 **Profile**  
-*Aspiring Computer Vision Engineer | Tokyo Tech ICT Student*
+*Aspiring Computer Vision Engineer | Tokyo xxx Student*
 
 ---
 
