@@ -61,8 +61,11 @@
 
 **Let's Connect:**  
 [![Email](https://img.shields.io/badge/-📧_Email-%23EA4335?style=flat-square)](mailto:azhangzhangflulike@gmail.com) 
+
 [![GitHub](https://img.shields.io/badge/-🐙_GitHub-%23181717?style=flat-square)](https://github.com/Flulike)  
+
 [![Notion](https://img.shields.io/badge/-💼_Notion_Portfolio-%23000000?style=flat-square)](https://www.notion.so/06f114ea10e2462f8a4703da39604450)
+ *Notion acess needs my permission*
 [![Twitter](https://img.shields.io/badge/-📱_Twitter-%231DA1F2?style=flat-square)](https://x.com/gyp990530)
 
 ```python
