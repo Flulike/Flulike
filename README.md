@@ -141,7 +141,7 @@ Kidding, I'm not a coffee guy. I prefer pure water in my life.
 
 **schedule --daily --tz=GMT+9**  
 
-```
+```bash
 ╭─────────────────────── Daily Routine ───────────────────────╮
 │ 09:00 🧪 [Lab]           ███████████████████░░░░░ 75%        │
 │ 13:00 🏋️ Gym Session    ▮▮▮▮▮ (2hr Powerlifting)         │
