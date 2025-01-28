@@ -130,26 +130,16 @@ G --> I[C++]
 **Flulike** - CV Researcher | Python Evangelist  
 
 **neofetch**  
-- **OS**: Ubuntu 20.04 LTS x86_64 & Windows 11  
+- **OS**: Ubuntu 20.04 LTS x86_64 & Windows 11
+- **CUDA**: 11.8 
 - **GPU**: A6000 × 4 & RTX 4090  
 - **Shell**: zsh 5.8  
 - **Editor**: VSCode  
 - **Theme**: Dracula  
 
 **coffee --status**  
-Kidding, I'm not a coffee guy. I prefer pure water in my life.  
+Kidding, I'm not a coffee guy. I prefer pure water in my life.    
 
-**schedule --daily --tz=GMT+9**  
-
-```bash
-╭─────────────────────── Daily Routine ───────────────────────╮
-│ 09:00 🧪 [Lab]           ███████████████████░░░░░ 75%        │
-│ 13:00 🏋️ Gym Session    ▮▮▮▮▮ (2hr Powerlifting)         │
-│ 15:00 🖥️ [Lab]          ████████████████████████░ 90%        │
-│ 19:00 🍜 Dinner Break   🍣🍚🥢 (Fried Chicken)             │
-│ 21:00 🚇 Return Home    Listening to ASMR                    │
-╰──────────────────────────────────────────────────────────────╯
-```
 
 **hobbies --show-all**  
 
@@ -173,6 +163,17 @@ Kidding, I'm not a coffee guy. I prefer pure water in my life.
   - 1️⃣ **Sound! Euphonium**  
   - ❤️‍🔥 **BangDream**  
   - 💝 **Shōjo Kageki Revyū Sutāraito**  
+---
+### 🗓️ Daily Routine
+**schedule --daily --tz=GMT+9**
+
+| Time    | Activity          | Details                               |
+|---------|--------------------|---------------------------------------|
+| **09:00** | 🧪 **[Lab]**      | Progress: ███████████████████░░░░░ 75% |
+| **13:00** | 🏋️ **Gym Session** | Focus: ▮▮▮▮▮ (2hr Powerlifting)        |
+| **15:00** | 🖥️ **[Lab]**      | Progress: ████████████████████████░ 90% |
+| **19:00** | 🍜 **Dinner Break**| Menu: 🍣🍚🥢 (Fried Chicken)             |
+| **21:00** | 🚇 **Return Home** | Activity: Listening to ASMR            |
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
