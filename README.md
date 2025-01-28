@@ -23,7 +23,7 @@
 def project_summary():
     tech_stack = ["Python", "OpenCV", "PyTorch"]
     features = ["Object Detection", "Feature Matching", "Real-time Processing"]
-    return f"🚀 Built with {tech_stack} | ✨ Features: {features}"
+    return f"🚀 Built with MMYOLO | ✨ Features: Self-attention + Convolution"
 ```
 📌 **Implementation Highlights**  
 - We proposed a detection model for **V**ehicle **D**etection in **C**CTV. 
@@ -143,10 +143,10 @@ Kidding, I'm not coffee guy. I prefer pure water in my life
 $ schedule --daily --tz=GMT+9
 ╭─────────────────────── Daily Routine ───────────────────────╮
 │ 09:00 🧪 [Lab]           ███████████████████░░░░░ 75%        │
-│ 13:00 🏋️ Gym Session    ▮▮▮▮▮ (2hr Powerlifting)             │
+│ 13:00 🏋️ Gym Session    ▮▮▮▮▮ (2hr Powerlifting)         │
 │ 15:00 🖥️ [Lab]          ████████████████████████░ 90%        │
-│ 19:00 🍜 Dinner Break   🍣🍚🥢 (Konbini Warrior Mode)        │
-│ 21:00 🚇 Return Home    Listening to B'z on Yamanote Line    │
+│ 19:00 🍜 Dinner Break   🍣🍚🥢 (Fried Chicken)             │
+│ 21:00 🚇 Return Home    Listening to ASMR                    │
 ╰──────────────────────────────────────────────────────────────╯
 
 $ hobbies --show-all
@@ -170,10 +170,12 @@ $ hobbies --show-all
 💗 Anime
   1️⃣ Sound! Euphonium
   ❤️‍🔥 BangDream
-  💝 	Shōjo Kageki Revyū Sutāraito
+  💝 Shōjo Kageki Revyū Sutāraito
 
 
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Flulike=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
