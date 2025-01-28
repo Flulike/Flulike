@@ -66,13 +66,8 @@
 
 [![Notion](https://img.shields.io/badge/-💼_Notion_Portfolio-%23000000?style=flat-square)](https://www.notion.so/06f114ea10e2462f8a4703da39604450)
  *Notion acess needs my permission*
+ 
 [![Twitter](https://img.shields.io/badge/-📱_Twitter-%231DA1F2?style=flat-square)](https://x.com/gyp990530)
-
-```python
-# Anti-spam Email Obfuscation
-def reveal_email():
-    return bytes.decode(base64.b64decode('YUhvbmdrZXlvdUBleGFtcGxlLmNvbQ=='), 'utf-8')
-```
 
 ---
 
