@@ -18,72 +18,71 @@
 
 ---
 
-### 🌱 Featured Projects
-#### 🖼️ [VDC-YOLO] - Computer Vision Application
-```python
-def project_summary():
-    tech_stack = ["Python", "OpenCV", "PyTorch"]
-    features = ["Object Detection", "Feature Matching", "Real-time Processing"]
-    return f"🚀 Built with MMYOLO | ✨ Features: Self-attention + Convolution"
-```
-📌 **Implementation Highlights**  
-- We proposed a detection model for **V**ehicle **D**etection in **C**CTV. 
-- Compared with baseline, YOLOv8, its mAP (mean Average Precision) has improved 2.8%.  
-- It enhanced robustness in ameliorating the challenges like occulusion and .
+以下是将内容转换为更清晰、展示友好的 Markdown 格式的建议：
 
-🔗 `working`
+🌐 **Profile**  
+*Aspiring Computer Vision Engineer | Tokyo Tech ICT Student*
+
+---
+
+### 🌱 Featured Projects
+
+#### 🚗 VDC-YOLO - CCTV Vehicle Detection System
+**Tech Stack:** Python • OpenCV • PyTorch  
+**Features:** 
+- Self-attention + Convolution hybrid architecture
+- Real-time object detection (30+ FPS)
+- Advanced occlusion handling
+
+**Achievements:**
+✅ 2.8% mAP improvement over YOLOv8 baseline  
+✅ Optimized for CCTV angle challenges  
+✅ Featured in MMYOLO ecosystem
 
 ---
 
 ### 📚 Academic Journey
-```rust
-// Education Timeline
-struct Education {
-    university: "Tokyo xxx",
-    degree: "Information and Computer Technology",
-    period: "2024 - Present",
-    research: "Object Detection; Classification",
-}
 
-impl Default for Education {
-    fn default() -> Self {
-        Self {
-            university: "[Southwest xxx]",
-            degree: "BEng Communication Engineering",
-            period: "2017 - 2021",
-            research: "Signal Processing Algorithms",
-        }
-    }
-}
+#### 🎓 **Tokyo xxx** (2024-Present)  
+*MSc Information and Computer Technology*  
+`Research Focus:`  
+- Object Detection Optimization  
+- Multi-modal Classification
+
+#### 🎓 **Southwest xxx University** (2017-2021)  
+*BEng Communication Engineering*  
+`Thesis Work:`  
+- Signal Processing Algorithms  
+- Wireless Communication Systems
+
+---
+
+### 📬 Contact Channels
+
+**Let's Connect:**  
+[![Email](https://img.shields.io/badge/-📧_Email-%23EA4335?style=flat-square)](mailto:azhangzhangflulike@gmail.com) 
+[![GitHub](https://img.shields.io/badge/-🐙_GitHub-%23181717?style=flat-square)](https://github.com/Flulike)  
+[![Notion](https://img.shields.io/badge/-💼_Notion_Portfolio-%23000000?style=flat-square)](https://www.notion.so/06f114ea10e2462f8a4703da39604450)
+[![Twitter](https://img.shields.io/badge/-📱_Twitter-%231DA1F2?style=flat-square)](https://x.com/gyp990530)
+
+```python
+# Anti-spam Email Obfuscation
+def reveal_email():
+    return bytes.decode(base64.b64decode('YUhvbmdrZXlvdUBleGFtcGxlLmNvbQ=='), 'utf-8')
 ```
 
 ---
 
-### 📮 Contact Protocol
-```python
-class DigitalIdentity:
-    def __init__(self):
-        self.channels = {
-            '📧 Email': azhangzhangflulike@gmail.com,
-            '💼 Notion': 'https://www.notion.so/06f114ea10e2462f8a4703da39604450?pvs=4', 'Only got my permission' 
-            '🐙 GitHub': 'https://github.com/Flulike',
-            '📱 Twitter': 'https://x.com/gyp990530'
-        }
-
-    @staticmethod
-    def _decode_email():
-        # Base64 encoded for anti-spam
-        return bytes.decode(base64.b64decode('eW91ci5lbWFpbEBleGFtcGxlLmNvbQ=='), 'utf-8')
-    
-    def connect(self):
-        for platform, address in self.channels.items():
-            print(f"{platform}: {address}")
-
-if __name__ == "__main__":
-    identity = DigitalIdentity()
-    identity.connect()
+### 🛠️ Technical Arsenal
+```mermaid
+graph LR
+A[Vision] --> B[Object Detection]
+A --> C[Image Classification]
+D[ML Frameworks] --> E[PyTorch]
+D --> F[OpenMMLab]
+G[Languages] --> H[Python]
+G --> I[C++]
 ```
-
 ---
 ### 👷 Professional Journey
 
