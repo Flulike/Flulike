@@ -176,7 +176,7 @@ $ hobbies --show-all
 
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
