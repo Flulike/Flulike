@@ -34,6 +34,7 @@
 - Advanced occlusion handling
 
 **Achievements:**
+
 ✅ 2.8% mAP improvement over YOLOv8 baseline  
 ✅ Optimized for CCTV angle challenges  
 ✅ Featured in MMYOLO ecosystem
