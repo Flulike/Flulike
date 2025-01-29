@@ -176,9 +176,9 @@ Kidding, I'm not a coffee guy. I prefer pure water in my life.
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flulike&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flulike&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flulike&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flulike&theme=radical&utcOffset=9)
 
 ---
 
