@@ -114,7 +114,6 @@ G --> I[C++]
 `E-commerce Platform (Remote) | 2020 (Summer Internship)`  
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)](https://www.java.com/) 
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=flat-square)](https://spring.io/)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
 
 **Performance Highlights**  
 - ⚡ Reduced API latency by 62% via Redis caching strategies  
@@ -176,8 +175,8 @@ Kidding, I'm not a coffee guy. I prefer pure water in my life.
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flulike&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flulike&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flulike&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flulike&theme=radical&utcOffset=9)
 
 ---
