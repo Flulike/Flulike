@@ -11,6 +11,7 @@
 ### 🛠️ Tech Stack & Preferences
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=for-the-badge)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/-C-555555?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge)](https://www.java.com/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&style=for-the-badge)](https://www.mathworks.com/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=for-the-badge)](https://opencv.org/)
