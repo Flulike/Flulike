@@ -130,7 +130,7 @@ G --> I[C++]
 - **CUDA**: 11.8 
 - **GPU**: A6000 × 4 & RTX 4090  
 - **Shell**: zsh 5.8  
-- **Editor**: VSCode  
+- **Editor**: VSCode & Cursor  
 - **Theme**: Dracula  
 
 **coffee --status**  
