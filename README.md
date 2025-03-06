@@ -126,8 +126,8 @@ G --> I[C++]
 **Flulike** - CV Researcher | Python Evangelist  
 
 **neofetch**  
-- **OS**: Ubuntu 20.04 LTS x86_64 & Windows 11
-- **CUDA**: 11.8 
+- **OS**: Ubuntu 20.04 LTS x86_64 -> updating!!! & Windows 11
+- **CUDA**: 11.8 -> updating!!!
 - **GPU**: A6000 × 4 & RTX 4090  
 - **Shell**: zsh 5.8  
 - **Editor**: VSCode & Cursor  
