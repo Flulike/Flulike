@@ -28,7 +28,7 @@
 ### 🌱 Featured Projects
 
 #### 🚗 VDC-YOLO - CCTV Vehicle Detection System
-**Tech Stack:** Python • OpenCV • PyTorch  
+**Tech Stack:** Python • MMyolo • PyTorch  
 **Features:** 
 - Self-attention + Convolution hybrid architecture
 - Real-time object detection (30+ FPS)
@@ -36,7 +36,7 @@
 
 **Achievements:**
 
-✅ 2.8% mAP improvement over YOLOv8 baseline  
+✅ 6.2% mAP improvement over YOLOv8 baseline  
 ✅ Optimized for CCTV angle challenges  
 ✅ Featured in MMYOLO 
 
