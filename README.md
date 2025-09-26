@@ -27,7 +27,7 @@
 
 ### 🌱 Featured Projects
 
-#### 🚗 VDC-YOLO - CCTV Vehicle Detection System
+#### 🚗 [VDC-YOLO - CCTV Vehicle Detection System](https://github.com/Flulike/vdc_yolo)
 **Tech Stack:** Python • MMyolo • PyTorch  
 **Features:** 
 - Self-attention + Convolution hybrid architecture
@@ -39,6 +39,21 @@
 ✅ 6.2% mAP improvement over YOLOv8 baseline  
 ✅ Optimized for CCTV angle challenges  
 ✅ Featured in MMYOLO 
+
+**Citation**
+```
+@article{guo2025vehicle,
+  title={Vehicle detection in CCTV with global-guided self-attention and convolution},
+  author={Guo, Yupei and Yamamoto, Yota and Yaginuma, Hideki and Taniguchi, Yukinobu},
+  journal={Complex \& Intelligent Systems},
+  volume={11},
+  number={10},
+  pages={458},
+  year={2025},
+  publisher={Springer}
+}
+```
+
 
 ---
 
