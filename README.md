@@ -96,7 +96,7 @@
 | **21:00** | 🚇 **Return Home** | Activity: Listening to ASMR            |
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flulike&theme=radical&utcOffset=9)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flulike&theme=radical)
 
