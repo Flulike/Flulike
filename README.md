@@ -1,14 +1,12 @@
-# 💻 Flulike owns this space!
+# Flulike owns this space!
 
-🎓 PhD Student in Computer Vision  
-🌐 Communication Engineering Background | 💻 Full-Stack Algorithm Enthusiast  
-🔭 Currently hacking: `Computer Vision` `Deep Learning` `Image Processing`
-
-👨 Rookie of github and software engineer. 
+ PhD Student in Computer Vision  
+ Communication Engineering Background | Full-Stack Algorithm Enthusiast  
+ Currently hacking: `Computer Vision` `Deep Learning` `Image Processing`
 
 ---
 
-### 🛠️ Tech Stack & Preferences
+### Tech Stack & Preferences
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=for-the-badge)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/-C-555555?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -19,7 +17,7 @@
 
 ---
 
-### 🌱 Featured Projects
+### Featured Projects
 
 #### 🚗 [Vehicle detection on CCTV](https://github.com/Flulike/vdc_yolo)
 **Tech Stack:** Python • MMyolo • PyTorch  
@@ -65,7 +63,7 @@
 
 ---
 
-### 📚 Academic Journey
+### Academic Journey
 
 #### 🎓 **Osaka** (2026-present)  
 *PhD Computer science*  
