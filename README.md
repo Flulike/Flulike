@@ -1,6 +1,6 @@
 # 💻 Flulike owns this space!
 
-🎓 Master's Student in Computer Vision @ Tokyo  
+🎓 PhD Student in Computer Vision  
 🌐 Communication Engineering Background | 💻 Full-Stack Algorithm Enthusiast  
 🔭 Currently hacking: `Computer Vision` `Deep Learning` `Image Processing`
 
