@@ -19,26 +19,14 @@
 
 ---
 
-
-🌐 **Profile**  
-*Aspiring Computer Vision Engineer | Tokyo xxx Student*
-
----
-
 ### 🌱 Featured Projects
 
-#### 🚗 [VDC-YOLO - CCTV Vehicle Detection System](https://github.com/Flulike/vdc_yolo)
+#### 🚗 [Vehicle detection on CCTV](https://github.com/Flulike/vdc_yolo)
 **Tech Stack:** Python • MMyolo • PyTorch  
 **Features:** 
 - Self-attention + Convolution hybrid architecture
 - Real-time object detection (30+ FPS)
 - Advanced occlusion handling
-
-**Achievements:**
-
-✅ 6.2% mAP improvement over YOLOv8 baseline  
-✅ Optimized for CCTV angle challenges  
-✅ Featured in MMYOLO 
 
 **Citation**
 ```
@@ -53,19 +41,45 @@
   publisher={Springer}
 }
 ```
+#### 🚗 [Separation Downsampling](https://github.com/Flulike/Separation_downsampling)
+**Tech Stack:** Python • Ultralytics • PyTorch  
+**Features:** 
+- Spatial and Frequency downsampling design
+- SOTA precsion results on both CCTV and UAV 
+- Competitive latency for real-time detection
 
+**Citation**
+```
+@inproceeding{guo2026separation,
+  title={Separation downsampling for vehicle detection},
+  author={Guo, Yupei and Yamamoto, Yota and Taniguchi, Yukinobu},
+  booktitle={Proceedings of the 21st International Conference on Computer Vision Theory and Applications - Volume 1: VISAPP},
+  year={2026},
+  pages={483-490},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0014393400004084},
+  isbn={978-989-758-804-4},
+}
+```
 
 ---
 
 ### 📚 Academic Journey
 
-#### 🎓 **Tokyo xxx** (2024-Present)  
+#### 🎓 **Osaka** (2026-present)  
+*PhD Computer science*  
+`Research Focus:`  
+- Multi-agent   
+- Vision Language model
+
+#### 🎓 **Tokyo** (2024-2026)  
 *MSc Information and Computer Technology*  
 `Research Focus:`  
-- Object Detection Optimization  
-- Multi-modal Classification
+- Object Detection  
+- Generative AI
 
-#### 🎓 **Southwest xxx University** (2017-2021)  
+#### 🎓 **Southwest** (2017-2021)  
 *BEng Communication Engineering*  
 `Thesis Work:`  
 - Signal Processing Algorithms  
@@ -80,20 +94,8 @@
 [![GitHub](https://img.shields.io/badge/-🐙_GitHub-%23181717?style=flat-square)](https://github.com/Flulike)  
 [![Notion](https://img.shields.io/badge/-💼_Notion_Portfolio-%23000000?style=flat-square)](https://www.notion.so/06f114ea10e2462f8a4703da39604450)  
  *Notion acess needs my permission*   
-[![Twitter](https://img.shields.io/badge/-📱_Twitter-%231DA1F2?style=flat-square)](https://x.com/gyp990530)
+[![Twitter](https://img.shields.io/badge/-📱_Twitter-%231DA1F2?style=flat-square)](https://x.com/GuoYp530)
 
- 
----
-### 🗓️ Daily Routine
-**schedule --daily --tz=GMT+9**
-
-| Time    | Activity          | Details                               |
-|---------|--------------------|---------------------------------------|
-| **09:00** | 🧪 **[Lab]**      | Progress: ███████████████████░░░░░ 75% |
-| **13:00** | 🏋️ **Gym Session** | Focus: ▮▮▮▮▮ (2hr Powerlifting)        |
-| **15:00** | 🖥️ **[Lab]**      | Progress: ████████████████████████░ 90% |
-| **19:00** | 🍜 **Dinner Break**| Menu: 🍣🍚🥢 (Fried Chicken)             |
-| **21:00** | 🚇 **Return Home** | Activity: Listening to ASMR            |
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flulike)](https://github.com/anuraghazra/github-readme-stats)
